@@ -1,0 +1,45 @@
+﻿Oleksandr Fedchyk
+02.12.1985
+
+Contacts:
+Cell Phone number: (097)625-32-17
+Email: fed4iksasha@gmail.com
+Skype: fed4iksasha
+Github:	Address:
+Kiev
+Ukraine
+________________________________________
+
+Objective	
+Getting a position of Java developer in a company with ablility to get new experience and improve gained skills in programming in cooperation with friendly team.
+
+Professional
+Skills	
+Technologies: java core (OOP, containers, multithreading, serialization, reflection, OOD, i/o), data formats (XML, json), web (HTTP, Servlet api, JSP, Apache Tomcat 8, HTML, CSS, jQuery, RESTful), jdbc, SQL, RDBMS (Postgresql, MySQL).
+Tools: GIT, IDEs (Eclipse, Intellij IDEA),.
+Languages: Ukrainian (native), Russian (excellent), English(intermediate)
+
+Education	
+2003-2009 (MS)
+UNIVERSITY: NTUU “Kiev Polytechnic Institute”
+INSTITUTE: Institute of Energy Saving and Energy Management
+DEPARTMENT: Department of Energy Saving
+
+Additional Education	
+Interactive online education: 
+JAVARUSH (Java), COURSERA (Internet history, technologies and security, Machine learning).
+
+Work
+Experience	
+2008 – 2016
+Energy company “Kievenergo”: engineer of maintenance electrician equipments.
+September 2016 – present time
+Electricity company “LNK”: chief electrical engineer.
+Here you should write info about the project that we are currently developing in JAVA_HOME group programm
+
+Personal
+Qualities
+	
+High level of the responsibility, ability for fast learning, aspiration for professional development.
+ 14 /09 /16
+
